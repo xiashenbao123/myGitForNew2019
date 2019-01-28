@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Location> 
+  <Process> 
+    <Process1 process="DingTalk.exe" isfrom="01"/> 
+  </Process>  
+  <Service> 
+    <Service1 ServiceName="XblGameSave" Code="XblGameSave"/> 
+  </Service>  
+  <Network>
+    <Network1 NetworkName="2" Code="2"/>
+  </Network>
+</Location>
